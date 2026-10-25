@@ -1,4 +1,5 @@
 # CodeAlpha_Stock-Portfolio-Tracker
+
 # Stock Portfolio Tracker (Indian MNCs) 📈
 
 This project was developed as part of the **CodeAlpha Python Programming Internship (Task 2)**.
@@ -52,8 +53,18 @@ Make sure you have **Python 3.x** installed on your system.
    ```bash
    git clone https://github.com/YOUR_USERNAME/CodeAlpha_Stock_Portfolio_Tracker.git
    cd CodeAlpha_Stock_Portfolio_Tracker
-2. python Stock_Portfolio_Tracker.py
+   ```
+
+2. Run the script:
+   ```bash
+   python Stock_Portfolio_Tracker.py
+   ```
+
+---
+
 ## 💻 Sample Program Output
+
+```text
 Welcome to the Indian Stock Portfolio Tracker!
 
 Available Indian MNC stocks and prices (per share in INR):
@@ -88,14 +99,20 @@ Total Investment: ₹17,090
 Save summary to a file? (y/n): y
 
 Portfolio summary saved to 'portfolio_summary.txt'.
-## Generated portfolio_summary.txt
+```
+
+### Generated `portfolio_summary.txt`
+```text
 Stock Portfolio Summary (Indian MNCs)
 =============================================
 TCS: 2 shares x ₹3,920 = ₹7,840
 INFY: 5 shares x ₹1,850 = ₹9,250
 =============================================
 Total Investment: ₹17,090
+```
+
+---
 
 ## 👤 Author
-Intern: Python Programming Intern at CodeAlpha
-Task: Task 2 - Stock Portfolio Tracke
+- **Intern:** Python Programming Intern at CodeAlpha
+- **Task:** Task 2 - Stock Portfolio Tracker
