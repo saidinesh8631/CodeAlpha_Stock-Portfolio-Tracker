@@ -1,0 +1,6 @@
+Stock Portfolio Summary (Indian MNCs)
+=============================================
+TCS: 20 shares x ₹3,920 = ₹78,400
+WIPRO: 2 shares x ₹540 = ₹1,080
+=============================================
+Total Investment: ₹79,480
