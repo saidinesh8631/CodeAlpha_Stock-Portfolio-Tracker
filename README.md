@@ -51,7 +51,7 @@ Make sure you have **Python 3.x** installed on your system.
 ### Running the Script
 1. Clone this repository or download the files:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/CodeAlpha_Stock_Portfolio_Tracker.git
+   git clone https://github.com/saidinesh8631/CodeAlpha_Stock-Portfolio-Tracker.git
    cd CodeAlpha_Stock_Portfolio_Tracker
    ```
 
